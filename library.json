@@ -13,5 +13,8 @@
     },
     "version": "1.0.1",
     "frameworks": "espidf",
-    "platforms": "espressif32"
+    "platforms": "espressif32",
+    "build": {
+        "includeDir": "include"
+    }
 }
